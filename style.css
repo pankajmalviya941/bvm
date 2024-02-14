@@ -1,0 +1,331 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*why choose us */
+.btn101{
+  background-color:orange;
+  height: 30px;
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+/*Faculty*/
+
+
+#button {
+  height: 40px;
+  width: 150px;
+
+  color: aliceblue;
+  border-radius: 3px;
+  border: none;
+}
+.img1{
+  height: 150px;
+  width: 150px;
+}
+.img2{
+  height: 150px;
+  width: 150px;
+}
+.img3{
+  height: 150px;
+  width: 150px;
+}
+.img4{
+  height: 150px;
+  width: 150px;
+}
+/*Faculty*/
+/*form*/
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.main_div {
+  border: 0px solid black;
+  /* height: 285px;
+  width: 640px; */
+  border: 0px solid black;
+  max-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+
+.div_1 {
+  box-sizing: border-box;
+  border: 0px solid;
+  width: 100%;
+  max-width: calc(100% - 20px);
+  margin: 10px;
+  padding: 10px;
+  height: 580px;
+}
+
+.div_2 {
+  box-sizing: border-box;
+  border: 0px solid;
+  width: 100%;
+  max-width: calc(100% - 20px);
+  margin: 10px;
+  padding: 10px;
+  height: 580px;
+}
+
+.div_2 {
+  margin-left: 0;
+}
+
+
+
+.h3 {
+  margin-left: 130px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #006600;
+  font-size: 50px;
+
+}
+
+
+
+.h4 {
+  margin-left: 130px;
+  margin-left: 130px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #008000;
+  font-size: 30px;
+  margin-top: -20px;
+}
+
+h6 {
+  margin-left: 130px;
+  margin-top: -40px;
+  margin-left: 130px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #008000;
+  font-size: 20px;
+}
+
+/*b {
+  color: #f29202;
+}*/
+
+#fname {
+  width: 150px;
+  height: 20px;
+  margin-left: 46px;
+  margin-top: 15px;
+  border: none;
+  background-color:rgb(214, 214, 213);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#lname {
+  width: 150px;
+  height: 20px;
+  margin-left: 50px;
+  border: none;
+  background-color: rgb(214, 214, 213);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fname {
+  margin-left: 46px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: #008000;
+}
+
+.lname {
+  margin-left: 100px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: #008000;
+}
+
+.email1 {
+  margin-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px; 
+  margin-top: 12px;
+  color: #008000;
+}
+
+#email1 {
+  margin-left: 50px;
+  width: 370px;
+  height: 20px;
+  border: none;
+  margin-top: -8px;
+  background-color: rgb(214, 214, 213);
+}
+
+.address {
+  margin-left: 50px;
+  height: 120px;
+  width: 370px;
+  border: none;
+  background-color: rgb(214, 214, 213);
+  margin-top: 20px;
+
+}
+
+#address {
+  margin-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 2px;
+  margin-top: -2px;
+  font-size: 20px;
+  color: #008000;
+
+}
+
+.button1 {
+  height: 40px;
+  width: 80px;
+  /*border: 1px solid black;*/
+  margin-left: 120px;
+  margin-top: 100px;
+  border: none;
+  font-size: 20px;
+  border-radius: 5px;
+
+}
+
+.button2 {
+  height: 40px;
+  width: 80px;
+ /* border: 1px solid black;*/
+  margin-left: 30px;
+  border: none;
+  font-size: 18px;
+  border-radius: 5px;
+
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
+
+.div3 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-top: 50px;
+
+}
+
+.div4 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-top: -10px;
+  margin-left: 14px;
+}
+
+.button1,
+.button2 {
+  width: 100%;
+  max-width: 100px;
+  margin: 10px auto;
+  margin-left: 15px;
+}
+
+@media only screen and (min-width: 600px) {
+  .main_div {
+      flex-direction: row;
+  }
+
+  .div_1,
+  .div_2 {
+      max-width: calc(50% - 20px);
+  }
+
+  .div2 {
+      margin-left: 20px;
+  }
+
+  form {
+      max-width: none;
+  }
+}
+/*form*/
+/*footer*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.linked {
+  text-decoration: none;
+}
+.container {
+font-family: var(--font-family);
+}
+/*footer*/
+/* Academic section */
+/* Academic section */
+/* contactUs */
+.cdiv{
+  background-image: url('./Assets/school.png'); background-repeat: no-repeat;
+
+}
+/* counter */
+    /* Add custom styles here */
+    .main {
+      width: 100%;
+      flex-wrap: wrap;
+      /* Allow items to wrap to the next line */
+      justify-content: center;
+      /* Center items horizontally */
+      gap: 25px;
+    }
+    .stude {
+      width: calc(50% - 25px);
+      /* Set each item to take 50% of the container minus gap */
+      max-width: 300px;
+      /* Limit the maximum width of each item */
+      flex-direction: row;
+      /* Stack items vertically */
+      align-items: center;
+      gap: 5px;
+      text-align: center;
+    }
+    /* Media query for smaller screens */
+    @media screen and (max-width: 600px) {
+      .stude {
+        width: 100%;
+        /* Each item takes full width on smaller screens */
+      }
+    }
+    .img103 {
+      width: 80px;
+      height: 70px;
+    }
+    .stude {
+      display: flex;
+      align-items: center;
+    }
+    .h2103 {
+      color: rgb(9, 148, 102);
+      text-align: center;
+      font-size: 20px;
+
+    }
