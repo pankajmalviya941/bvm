@@ -216,12 +216,12 @@ h6 {
 }
 
 
-form {
+/* form {
   display: flex;
   flex-direction: column;
   width: 100%;
   max-width: 400px;
-}
+} */
 
 .div3 {
   width: 100%;
@@ -283,10 +283,6 @@ font-family: var(--font-family);
 /* Academic section */
 /* Academic section */
 /* contactUs */
-.cdiv{
-  background-image: url('./Assets/school.png'); background-repeat: no-repeat;
-
-}
 /* counter */
     /* Add custom styles here */
     .main {
