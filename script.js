@@ -25,3 +25,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }, intervalTime); // Change the interval time as needed
     });
 });
+//JavaScript for clearing the form 
+    function clearForm() {
+        document.getElementById("firstName").value = "";
+        document.getElementById("lastName").value = "";
+        document.getElementById("email").value = "";
+        document.getElementById("message").value = "";
+    };
